@@ -6,7 +6,7 @@
 npm install
 ```
 
-### 2. Compiles and hot-reloads for development
+### 2. Install Styled Components
 ```
 npm i styled-components
 ```
